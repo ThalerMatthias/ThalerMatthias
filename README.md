@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ThalerMatthias.
-- Co-Founder @AlpinoAI
-- Old Work @ https://github.com/CrystalDesignMT
+- Co-Founder @[AlpinoAI](https://github.com/AlpinoAI)
+- Old Work Account for @[CrystalDesign](https://github.com/CrystalDesign)-[https://github.com/CrystalDesignMT](https://github.com/CrystalDesignMT)
 
